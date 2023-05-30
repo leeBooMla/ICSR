@@ -109,7 +109,7 @@ python examples/test.py \
 
 ## Citation
 If you find this code useful for your research, please cite our paper:
-'''
+```
 @misc{li2023pseudo,
       title={Pseudo Labels Refinement with Intra-camera Similarity for Unsupervised Person Re-identification}, 
       author={Pengna Li and Kangyi Wu and Sanping Zhou. Qianxin Huang and Jinjun Wang},
@@ -118,6 +118,6 @@ If you find this code useful for your research, please cite our paper:
       archivePrefix={arXiv},
       primaryClass={cs.CV}
 }
-'''
+```
 ## Acknowledgement
 Codes are built upon [Cluster-Contrast](https://github.com/alibaba/cluster-contrast-reid).
